@@ -6,6 +6,8 @@ Markdown2Html是一个[Popclip](http://pilotmoon.com/popclip)插件，由官方�
 
 在Evernote中输入Markdown格式的文本后，选择，点击Markdown2Html图标，即可转换Markdown为Html富文本
 
+![](http://i.imgur.com/A72Dpv0.gif)
+
 注意事项：
 
 如果在Evernote中使用，有些格式是不支持的。
