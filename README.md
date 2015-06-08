@@ -12,6 +12,6 @@ Markdown2Html是一个[Popclip](http://pilotmoon.com/popclip)插件，由官方�
 
 如果在Evernote中使用，有些格式是不支持的。
 
-右键下载：
+下载地址：
 
-[Markdown2html.popclipextz](https://dl.dropboxusercontent.com/u/2895150/Markdown2html.popclipextz)
+[Markdown2html.popclipextz](https://www.dropbox.com/s/y5oe5ui6nc85lpf/Markdown2html.popclipextz?dl=0)
