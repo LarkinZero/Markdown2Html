@@ -14,4 +14,4 @@ Markdown2Html是一个[Popclip](http://pilotmoon.com/popclip)插件，由官方�
 
 下载地址：
 
-[Markdown2html.popclipextz](https://www.dropbox.com/s/y5oe5ui6nc85lpf/Markdown2html.popclipextz?dl=0)
+[Markdown2html.popclipextz](https://github.com/LarkinZero/Markdown2Html/raw/master/Markdown2html.popclipextz)
